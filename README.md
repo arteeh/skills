@@ -1,2 +1,1 @@
-# skills
 My agent skills
